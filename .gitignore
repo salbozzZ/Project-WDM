@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+scratch/
+extracted_portfolio_imgs/
+portfolio_extracted_assets/
